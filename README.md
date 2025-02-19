@@ -18,7 +18,7 @@ That's why I am learning some more with![Udemy](https://img.shields.io/badge/Ude
 - 🔭 I’m currently working on my skills 
 - 🌱 I’m currently learning Python and C++ 
 - 🤔 I’m looking for help with a way to improve myself
-- 📫 How to reach me: sylvestrecorneille@gmail.com
+- 📫 How to reach me: sylvestre.corneille@icloud.com
 - 😄 Pronouns: He/Him
 
 
